@@ -1,0 +1,19 @@
+body {
+  background-color: #fce4ec; /* pink muda */
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 40px;
+}
+
+h1 {
+  color: #d81b60;
+}
+
+img, video {
+  border-radius: 10px;
+  margin: 20px 0;
+}
+
+audio {
+  margin-top: 20px;
+}
